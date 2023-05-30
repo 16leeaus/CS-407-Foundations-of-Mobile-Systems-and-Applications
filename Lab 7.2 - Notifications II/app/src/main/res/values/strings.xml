@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notifications - Part II Electric Boogaloo</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="send_on_channel_1">SEND ON CHANNEL 1</string>
+    <string name="send_on_channel_2">SEND ON CHANNEL 2</string>
+</resources>

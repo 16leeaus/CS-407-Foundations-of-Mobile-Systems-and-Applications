@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1090998802431",
+    "project_id": "heaco-b1f52",
+    "storage_bucket": "heaco-b1f52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090998802431:android:ba2c68dcc6eb083a06b9ca",
+        "android_client_info": {
+          "package_name": "com.example.heaco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090998802431-vr6gu4rf24cr2sf8fmb7aq4ilg6ealgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heaco",
+            "certificate_hash": "5bdb423ecc242d33270f749929967d878b9ab523"
+          }
+        },
+        {
+          "client_id": "1090998802431-08ud5fvijj952nblv768if55tun1o4ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6mm0m3u6NJtS-SwPrbkI7GETTFPUYkA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090998802431-08ud5fvijj952nblv768if55tun1o4ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
